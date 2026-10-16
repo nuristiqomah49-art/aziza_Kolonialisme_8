@@ -1,0 +1,6 @@
+{
+  "name": "NusantaraQuest - AI Tutor IPS Kelas 8 SMPN 4 Awayan",
+  "description": "Platform AI Tutor interaktif IPS Kelas 8 SMPN 4 Awayan berbasis Kurikulum Merdeka dengan metode dialog Socratic, RAG buku resmi Kemendikbudristek, peta rute Jalur Rempah, latihan HOTS, dan dashboard pemantauan guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
